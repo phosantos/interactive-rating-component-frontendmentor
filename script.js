@@ -8,7 +8,7 @@ function selectRating() {
   ratingOption.forEach((item) => {
     item.classList.remove("active");
   });
-  this.classList.toggle("active");
+  this.classList.add("active");
 }
 
 ratingOption.forEach((item) => {
