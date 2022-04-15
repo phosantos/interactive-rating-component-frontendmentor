@@ -68,6 +68,7 @@ body {
   height: 50px;
   border-radius: 50%;
   background: var(--dark-blue);
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 1rem;
   font-weight: 700;
   color: var(--light-grey);
